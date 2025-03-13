@@ -32,7 +32,7 @@ Result: 15.0
 - If a user tries to divide by zero, the program warns: `Error: Division by zero`
 
 ## Contributing
-Feel free to fork this repository and improve the calculator. If you have suggestions or find issues, open an **issue** or submit a **pull request**!
+Suggestions and improvements are always welcome!
 ---
 Happy coding! 🚀
 
